@@ -1,9 +1,9 @@
 # AppRoomProduto: Cadastro de Produtos com Room SQLite
 
-**Aluno(a):** Seu Nome Completo
-**RA:** 000000
+**Aluno(a):** Flávia Valéria Leandro da Silva
+**RA:** 243440
 **Disciplina:** Programação para Dispositivos Móveis
-**Professor(a):** Nome do Professor
+**Professor(a):** Alessandro Ferreira Paz de Lima
 
 ## Sobre o projeto
 Aplicativo Android em Kotlin que cadastra, lista, busca, atualiza e exclui produtos
