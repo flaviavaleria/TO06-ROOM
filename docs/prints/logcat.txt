@@ -1,0 +1,13 @@
+--------- beginning of main
+10-21 20:02:59.587  3153  3153 I TAG     : Produto inserido: Teclado - R$149.9
+10-21 20:03:11.140  3153  3153 I TAG     : Produto inserido: Mouse - R$59.0
+10-21 20:03:22.191  3153  3153 I TAG     : Produto inserido: Monitor - R$899.9
+10-21 20:03:22.865  3153  3153 I TAG     : Produto = Teclado, Preço = R$149.9, Descrição = Teclado USB, Qtd = 10
+10-21 20:03:22.865  3153  3153 I TAG     : Produto = Mouse, Preço = R$59.0, Descrição = Mouse optico, Qtd = 25
+10-21 20:03:22.865  3153  3153 I TAG     : Produto = Monitor, Preço = R$899.9, Descrição = Monitor 24 pol, Qtd = 5
+10-21 20:03:26.876  3153  3153 I TAG     : Produto = Mouse, Preço = R$59.0, Descrição = Mouse optico, Qtd = 25
+10-21 20:03:36.909  3153  3153 I TAG     : Produto = Teclado, Preço = R$129.9, Descrição = Teclado USB, Qtd = 10
+10-21 20:03:36.909  3153  3153 I TAG     : Produto = Mouse, Preço = R$59.0, Descrição = Mouse optico, Qtd = 25
+10-21 20:03:36.909  3153  3153 I TAG     : Produto = Monitor, Preço = R$899.9, Descrição = Monitor 24 pol, Qtd = 5
+10-21 20:03:48.248  3153  3153 I TAG     : Produto = Teclado, Preço = R$129.9, Descrição = Teclado USB, Qtd = 10
+10-21 20:03:48.248  3153  3153 I TAG     : Produto = Monitor, Preço = R$899.9, Descrição = Monitor 24 pol, Qtd = 5
