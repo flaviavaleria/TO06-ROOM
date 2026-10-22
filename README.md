@@ -3,7 +3,7 @@
 **Aluna:** Flávia Valéria Leandro da Silva
 **RA:** 243440
 **Disciplina:** Programação para Dispositivos Móveis
-**Professor(a):** Alessandro Ferreira Paz de Lima
+**Professor:** Alessandro Ferreira Paz de Lima
 
 ## Sobre o projeto
 Aplicativo Android em Kotlin que cadastra, lista, busca, atualiza e exclui produtos
