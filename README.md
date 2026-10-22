@@ -1,6 +1,6 @@
 # AppRoomProduto: Cadastro de Produtos com Room SQLite
 
-**Aluno(a):** Flávia Valéria Leandro da Silva
+**Aluna:** Flávia Valéria Leandro da Silva
 **RA:** 243440
 **Disciplina:** Programação para Dispositivos Móveis
 **Professor(a):** Alessandro Ferreira Paz de Lima
